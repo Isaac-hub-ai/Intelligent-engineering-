@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/442594122351931883/8638da2feda74c0cbf44cd3f3945ad04/artifacts
+end_time: 1733960627907
+entry_point_name: ''
+experiment_id: '442594122351931883'
+lifecycle_stage: active
+run_id: 8638da2feda74c0cbf44cd3f3945ad04
+run_name: hilarious-squid-151
+run_uuid: 8638da2feda74c0cbf44cd3f3945ad04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733960625592
+status: 3
+tags: []
+user_id: e

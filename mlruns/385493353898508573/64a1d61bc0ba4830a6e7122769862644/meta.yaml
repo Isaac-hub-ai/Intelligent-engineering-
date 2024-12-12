@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/385493353898508573/64a1d61bc0ba4830a6e7122769862644/artifacts
+end_time: 1734007525698
+entry_point_name: ''
+experiment_id: '385493353898508573'
+lifecycle_stage: active
+run_id: 64a1d61bc0ba4830a6e7122769862644
+run_name: crawling-slug-727
+run_uuid: 64a1d61bc0ba4830a6e7122769862644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734007523598
+status: 3
+tags: []
+user_id: e

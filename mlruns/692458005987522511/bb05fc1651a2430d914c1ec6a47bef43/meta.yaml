@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/692458005987522511/bb05fc1651a2430d914c1ec6a47bef43/artifacts
+end_time: 1733989856225
+entry_point_name: ''
+experiment_id: '692458005987522511'
+lifecycle_stage: active
+run_id: bb05fc1651a2430d914c1ec6a47bef43
+run_name: bouncy-koi-837
+run_uuid: bb05fc1651a2430d914c1ec6a47bef43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733989855135
+status: 3
+tags: []
+user_id: e

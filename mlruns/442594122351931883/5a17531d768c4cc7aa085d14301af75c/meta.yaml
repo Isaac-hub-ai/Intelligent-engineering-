@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/442594122351931883/5a17531d768c4cc7aa085d14301af75c/artifacts
+end_time: 1733842153458
+entry_point_name: ''
+experiment_id: '442594122351931883'
+lifecycle_stage: active
+run_id: 5a17531d768c4cc7aa085d14301af75c
+run_name: capable-worm-751
+run_uuid: 5a17531d768c4cc7aa085d14301af75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733842152150
+status: 3
+tags: []
+user_id: e

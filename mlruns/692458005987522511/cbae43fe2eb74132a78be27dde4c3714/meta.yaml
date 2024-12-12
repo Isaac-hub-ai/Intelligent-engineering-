@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/692458005987522511/cbae43fe2eb74132a78be27dde4c3714/artifacts
+end_time: 1734006919844
+entry_point_name: ''
+experiment_id: '692458005987522511'
+lifecycle_stage: active
+run_id: cbae43fe2eb74132a78be27dde4c3714
+run_name: casual-steed-722
+run_uuid: cbae43fe2eb74132a78be27dde4c3714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734006918999
+status: 3
+tags: []
+user_id: e

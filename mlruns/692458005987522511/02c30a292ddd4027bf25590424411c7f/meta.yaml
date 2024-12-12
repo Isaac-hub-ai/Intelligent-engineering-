@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/692458005987522511/02c30a292ddd4027bf25590424411c7f/artifacts
+end_time: 1734006232851
+entry_point_name: ''
+experiment_id: '692458005987522511'
+lifecycle_stage: active
+run_id: 02c30a292ddd4027bf25590424411c7f
+run_name: polite-rook-951
+run_uuid: 02c30a292ddd4027bf25590424411c7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734006229335
+status: 3
+tags: []
+user_id: e

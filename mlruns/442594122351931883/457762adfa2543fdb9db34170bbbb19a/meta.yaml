@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/442594122351931883/457762adfa2543fdb9db34170bbbb19a/artifacts
+end_time: 1733926971319
+entry_point_name: ''
+experiment_id: '442594122351931883'
+lifecycle_stage: active
+run_id: 457762adfa2543fdb9db34170bbbb19a
+run_name: unleashed-cod-760
+run_uuid: 457762adfa2543fdb9db34170bbbb19a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733926970323
+status: 3
+tags: []
+user_id: e

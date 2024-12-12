@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/0/ca6dbcbba2774af38c65d5e82d4109f3/artifacts
+end_time: 1733835224531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca6dbcbba2774af38c65d5e82d4109f3
+run_name: traveling-slug-882
+run_uuid: ca6dbcbba2774af38c65d5e82d4109f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733835224192
+status: 4
+tags: []
+user_id: e

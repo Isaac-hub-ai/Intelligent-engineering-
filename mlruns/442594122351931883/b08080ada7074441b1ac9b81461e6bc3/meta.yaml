@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/442594122351931883/b08080ada7074441b1ac9b81461e6bc3/artifacts
+end_time: 1733928009528
+entry_point_name: ''
+experiment_id: '442594122351931883'
+lifecycle_stage: active
+run_id: b08080ada7074441b1ac9b81461e6bc3
+run_name: skillful-mouse-225
+run_uuid: b08080ada7074441b1ac9b81461e6bc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733928007654
+status: 3
+tags: []
+user_id: e

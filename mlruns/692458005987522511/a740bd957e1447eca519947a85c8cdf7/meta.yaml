@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/692458005987522511/a740bd957e1447eca519947a85c8cdf7/artifacts
+end_time: 1734026103086
+entry_point_name: ''
+experiment_id: '692458005987522511'
+lifecycle_stage: active
+run_id: a740bd957e1447eca519947a85c8cdf7
+run_name: masked-finch-32
+run_uuid: a740bd957e1447eca519947a85c8cdf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734026095869
+status: 3
+tags: []
+user_id: e

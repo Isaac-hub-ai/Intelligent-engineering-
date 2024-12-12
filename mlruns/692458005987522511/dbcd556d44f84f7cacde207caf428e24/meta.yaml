@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/e/PycharmProjects/pythonProject/mlruns/692458005987522511/dbcd556d44f84f7cacde207caf428e24/artifacts
+end_time: 1733991177545
+entry_point_name: ''
+experiment_id: '692458005987522511'
+lifecycle_stage: active
+run_id: dbcd556d44f84f7cacde207caf428e24
+run_name: mercurial-flea-780
+run_uuid: dbcd556d44f84f7cacde207caf428e24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733991174332
+status: 3
+tags: []
+user_id: e
