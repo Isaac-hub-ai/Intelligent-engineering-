@@ -3,7 +3,7 @@ import numpy as np
 
 # Example accuracy scores for different models
 models = ["Logistic Regression", "Random Forest", "SVM", "KNN"]
-accuracies = [0.85, 0.90, 0.88, 0.84]  # Replace with actual values from your models
+accuracies = [0.79, 0.76, 0.78, 0.74]  # Replace with actual values from your models
 
 # Plot accuracies
 plt.figure(figsize=(10, 6))
